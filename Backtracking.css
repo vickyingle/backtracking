@@ -1,0 +1,32 @@
+.title{
+    font-size:xx-large
+}
+
+.center{
+    text-align: center;
+
+}
+
+.size2{
+    font-size: large;
+}
+
+style2{
+    color: #660000; font-family: Verdana, Arial, Helvetica, sans-serif
+}
+
+pre {  color: #660000; font-family: Verdana, Arial, Helvetica, sans-serif
+}
+
+color{
+    color:blue;
+}
+
+space{
+    margin-left: 40px;
+    
+}
+.color{
+    background-color:lightgrey;
+    color:#000000;
+}
